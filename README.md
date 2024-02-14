@@ -6,6 +6,11 @@ This project develops a mini version of Google Map, termed as a car navigation p
 The program asks the user to choose points of interest (start and destination) via keyboard or mouse.
 It employs the Dijkstra algorithm to determine the shortest path from start to the destination, displaying the map, path, and car movement in a GLFW window.
 
+<p align="center">
+  <img src="docs/screenshot.png" width=75%> <br>
+  Screenshot of the program.
+</p>
+
 ## Key Components
 
 - `main.c`: Contains the main function, including window initialization.
